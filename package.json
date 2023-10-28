@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "vercel-file-upload": "^2.5.0"
+  }
+}
